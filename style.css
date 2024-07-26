@@ -1,0 +1,52 @@
+.nav-bottom{
+      display: flex;
+}
+.col>h2{
+    font-size: 70px;
+}
+.col>p{
+    font-size: 29px;
+}
+.col>h1{
+    font-size: 70px;
+}
+#par{
+    font-size: 33px;
+}
+#h2{
+    font-size: 40px;
+}
+.cardd{
+    border-radius: 20px;
+}
+#card1{
+    height: 15.7rem;
+}
+#h22{
+    font-size: 60px;
+}
+.col2{
+    display: flex;
+}
+.carddd{
+    height: 400px;
+}
+.butt{
+    height: 50px;
+    width: 200px;
+    border-radius: 25px;
+    background-color: #3572EF;
+}
+.card-img-top{
+    width: auto;
+    height: auto;
+}
+.watch>a{
+    text-decoration: none;
+}
+.bid-card{
+    display: flex;
+}
+#footer{
+    text-align: center;
+}
